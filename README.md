@@ -12,7 +12,7 @@ Bu proje, bir excel dosyasından çeşitli verileri okur, verileri analiz eder v
 2. Hyperlink Bilgilerinin Çekilmesi: Excel dosyasındaki D sütunundaki her hücreden hyperlink bilgilerini ayıklar. Eğer hücrede bir bağlantı varsa, bu bağlantıdan belirli bilgileri çıkarır.
 3. Verilerin İşlenmesi:
 - df1, df2 ve df3 adında üç farklı sayfadan veri yüklenir.
-- Timestamps (zaman damgaları) /datetime formatına dönüştürülür.
+- Timestamps (zaman damgaları) '/datetime' formatına dönüştürülür.
 - Veriler belirlenen periyotlarla özetlenir.
 - Veriler, zaman indeksine göre birleştirilir ve boş hücreler bir önceki geçerli değerle doldurulur (forward fill).
 4. Sonuçların Kaydedilmesi: İşlenmiş veriler sonuc.xlsx adlı bir Excel dosyasına kaydedilir. Zaman bilgileri 'Yıl-Ay-Gün Saat:Dakika' formatında sunulur.
