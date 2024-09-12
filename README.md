@@ -1,6 +1,6 @@
 # time_series_data_processing
 ### Proje Tanımı
-Bu proje, bir excel dosyasından çeşitli verileri okur, verileri analiz eder ve özetler. Veriler, belirli periyotlarla özetlenir ve sonuçlar yeni bir Excel dosyasına kaydedilir. Bu süreç, verilerin analizini ve raporlamasını kolaylaştırmak amacıyla yapılır.
+Bu proje, bir excel dosyasından çeşitli verileri okur, verileri analiz eder ve özetler. Veriler, belirli periyotlarla özetlenir ve sonuçlar yeni bir excel dosyasına kaydedilir. Bu süreç, verilerin analizini ve raporlamasını kolaylaştırmak amacıyla yapılır.
 
 ### Gerekli Kütüphaneler
 - pandas: Veri işleme ve analizi için kullanılır.
