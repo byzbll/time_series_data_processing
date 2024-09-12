@@ -19,7 +19,7 @@ Bu proje, bir excel dosyasından çeşitli verileri okur, verileri analiz eder v
 
 ### Önemli Kavramlar
 - Hyperlink: Excel hücresinde bulunan ve belirli bir URL'ye işaret eden bağlantıdır. Kodda bu bağlantılar içinden belirli bilgiler çıkarılır.
-- Resampling: Verilerin belirli bir periyotta özetlenmesi işlemidir. Örneğin, verilerin 15 saniyelik, 1 dakikalık veya 3 dakikalık periyotlarla özetlenmesi.
+- Resampling: Verilerin belirli bir periyotta özetlenmesi işlemidir. Örneğin, verilerin belirlenen periyotlarla özetlenmesi.
 - Forward Fill: Boş hücreleri, bir önceki geçerli değer ile doldurma yöntemidir.
 - Zaman Damgası(timestamp): Verilerin toplandığı veya işlendiği belirli bir zaman anını temsil eder. Zaman damgaları, veri analizi sırasında verilerin sıralanmasını ve zaman içindeki değişimini izlemeyi sağlar. Kodda, zaman damgaları datetime formatına dönüştürülür ve veriler bu zaman damgalarına göre özetlenir.
 
